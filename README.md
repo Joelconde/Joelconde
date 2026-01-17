@@ -1,23 +1,39 @@
-# 👋 Hi, I'm Joel Rodríguez
+# 👋 Hola, soy Joel Rodríguez
 
-🎓 Junior Software Engineer | DAW Student  
-📍 Barcelona, Spain  
+🎓 Desarrollador de Software Junior | Estudiante de DAW  
+📍 Barcelona, España  
 
-I'm a motivated junior developer focused on web development and systems.
-Currently learning and building projects with web and backend technologies.
-
----
-
-## 🛠️ Technologies
-- JavaScript, Python, Java, PHP
-- HTML, CSS, MySQL
-- Docker, Linux, Bash, Git
-- WordPress, CI/CD
+Soy un desarrollador junior motivado, enfocado en el desarrollo web y sistemas.
+Me gusta aprender nuevas tecnologías, crear proyectos prácticos y seguir mejorando cada día.
 
 ---
 
-## 🚀 Looking for
-- Junior Software Developer position
-- Internship or first job opportunity
+## 🛠️ Tecnologías
+- **Lenguajes:** JavaScript, Python, Java, PHP  
+- **Web:** HTML, CSS, MySQL, WordPress  
+- **Sistemas & DevOps:** Docker, Linux, Bash, Git, CI/CD  
+- **Otros:** Networking, Apache, Nginx (básico), Kubernetes (básico)
 
-📫 Contact: joelrodriguezconde00@gmail.com
+---
+
+## 💼 Experiencia
+- **Prácticas – Reset Solutions**
+  - Desarrollo web con WordPress
+  - Programación en Java
+  - Desarrollo web con HTML, CSS y JavaScript
+  - Mantenimiento de sistemas (Windows y Linux)
+
+- **Soporte IT – Escola Catalunya**
+  - Soporte técnico de primera línea
+  - Mantenimiento de sistemas
+  - Automatización de tareas con Python
+
+---
+
+## 🚀 Actualmente
+- Mejorando mis habilidades en backend y DevOps
+- Desarrollando proyectos personales
+- Buscando mi **primera oportunidad como desarrollador junior**
+
+📫 Contacto: joelrodriguezconde00@gmail.com
+
