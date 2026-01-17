@@ -4,7 +4,7 @@
 📍 Barcelona, España  
 
 Soy un desarrollador junior motivado, enfocado en el desarrollo web y sistemas.
-Me gusta aprender nuevas tecnologías, crear proyectos prácticos y seguir mejorando cada día.
+Me encuentro en formación activa, con experiencia práctica en entornos académicos y proyectos personales, donde aplico tecnologías reales y continúo desarrollando mis habilidades técnicas.
 
 ---
 
