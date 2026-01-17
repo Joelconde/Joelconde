@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Joel Rodríguez
 
-<!--
-**Joelconde/Joelconde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Software Engineer | DAW Student  
+📍 Barcelona, Spain  
 
-Here are some ideas to get you started:
+I'm a motivated junior developer focused on web development and systems.
+Currently learning and building projects with web and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies
+- JavaScript, Python, Java, PHP
+- HTML, CSS, MySQL
+- Docker, Linux, Bash, Git
+- WordPress, CI/CD
+
+---
+
+## 🚀 Looking for
+- Junior Software Developer position
+- Internship or first job opportunity
+
+📫 Contact: joelrodriguezconde00@gmail.com
